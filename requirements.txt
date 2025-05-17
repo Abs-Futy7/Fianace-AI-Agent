@@ -1,0 +1,6 @@
+phidata
+dotenv
+groq
+yfinance
+duckduckgo-search
+streramlit
